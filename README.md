@@ -1,1 +1,1 @@
-# Cognifyz_Internships_Task.1
+# CognifyzInternships_Tasks
