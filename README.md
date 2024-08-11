@@ -11,6 +11,7 @@ Overview: The recommendation system I developed personalizes restaurant suggesti
 
 ## 3. Cuisine Classification
 Objective: Develop a machine learning model to classify restaurants based on their cuisines, such as Italian, Chinese, Indian, etc.
+
 Overview: This task involved building a classification model that accurately identifies the primary cuisine of a restaurant based on its menu and other related features. This model can assist in categorizing restaurants for better search and filter functionality.
 
 ## Technologies Used
