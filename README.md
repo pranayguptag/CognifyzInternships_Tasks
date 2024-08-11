@@ -3,10 +3,12 @@ This repository contains the projects I completed during my Machine Learning Int
 
 ## 1. Predict Restaurant Ratings
 Objective: Build a machine learning model to predict the aggregate rating of a restaurant based on various features such as location, cuisine, price range, and more.
+
 Overview: In this task, I developed a predictive model that helps estimate the overall rating a restaurant is likely to receive. This model can be used by restaurant owners to gain insights into factors that influence their ratings and by customers to gauge the quality of a restaurant before visiting.
 
 ## 2. Restaurant Recommendation System
-Objective: Create a restaurant recommendation system based on user preferences, such as favorite cuisines, location, and price range.    
+Objective: Create a restaurant recommendation system based on user preferences, such as favorite cuisines, location, and price range.
+
 Overview: The recommendation system I developed personalizes restaurant suggestions for users based on their preferences and previous interactions. This system enhances the dining experience by helping users discover restaurants that align with their tastes.
 
 ## 3. Cuisine Classification
